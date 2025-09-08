@@ -1,0 +1,81 @@
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+      </head>
+      <body>
+
+         <ul style ="list-style-type: square"; >
+         <li>Bread</li>
+        <li>tea</li>
+        <li>sandwich</li>
+         <li>kurkure</li>
+         </ul>
+     <!-- this is web development -->
+
+    
+        <ul style="list-style-type: disc";>
+        <li>Bread</li>
+        <li>tea</li>
+        <li>sandwich</li>
+        <li>kurkure</li>
+</ul>
+
+        <ul style="list-style-type: none";>
+         <li>Bread</li>
+        <li>tea</li>
+        <li>sandwich</li>
+        <li>kurkure</li>
+        </ul>       
+        
+        <ol>
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+         <ol type="A">
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+        <ol Type="a">
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+
+        <ol style ="list-style-type: square"; >
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+
+        
+        <ol style ="list-style-type: lower-roman "; >
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+     
+
+         
+        <ol ol style ="list-style-type: upper-roman ";>
+    
+            <li>bread</li>
+            <li>namkeen</li>
+            <li>feraro roscher</li>
+            <li>mojito</li>
+        </ol>
+
+
+
+
+</body>
+</html>
